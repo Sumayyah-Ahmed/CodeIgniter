@@ -6,5 +6,3 @@
     <a href="/blog/post" class="btn btn-primary">Learn more</a>
   </div>
 </div>
-
-
