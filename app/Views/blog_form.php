@@ -1,6 +1,7 @@
 <form action="/admin/blog/new" method="post">
+  
   <div>
-    <lable for=""></lable>Title</lable>
+    <label for="Title"></label>
     <input type="text" name ="title">
   </div>
   
